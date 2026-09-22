@@ -32,7 +32,7 @@ public class InputValidator
             }
             catch (NumberFormatException e)
             {
-                System.out.println("Input must be numerical.");
+                System.out.println("Input must be an integer.");
             }
         }
     }
